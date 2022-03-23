@@ -9,28 +9,77 @@ h4 {
   color: white;
 }
 
-ul {
-  color: white;
+li {
+  margin: 10px 10px 10px 5px;
+  display: block;
+  position: relative;
+  top: 100px;
 }
 
 a {
   color: white;
 }
 
+#titleperfetto {
+  margin: 10px 10px 50px 30px;
+}
+
+h1 {
+  font-size: 70px;
+}
+h3 {
+  font-size: 20px;
+}
+
 #navigation_bar {
-  display: block;
-  border: 1px solid red;
+  display: inline-block;
+  position: relative;
+  top: 0px;
+  right: 500px;
+  bottom: 0px;
+  left: 0px;
+  height: 1000px;
 }
 
 #video {
-  border: 1px solid red;
-  display: inline-block;
-}
-
-#projectsContainer {
-  border: 1px solid red;
+  display: inline;
+  position: absolute;
+  left: 450px;
+  top: 20px;
 }
 
 footer {
-  border: 1px solid red;
+  display: block;
+  position: relative;
+  bottom: 0px;
+  left: 360px;
+  margin: 150px 10px 10px 10px;
+}
+
+#projectsContainer {
+  display: inline;
+  position: absolute;
+  top: 330px;
+  left: 300px;
+  width: 800px;
+}
+
+#proOne,
+#proTwo,
+#proThree,
+#proFour {
+  display: inline-block;
+  position: relative;
+  margin: 10px 40px 10px 35px;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+#imgOne,
+#imgTwo,
+#imgThree,
+#imgFour {
+  width: 300px;
+  height: 300px;
 }
