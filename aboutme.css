@@ -1,0 +1,52 @@
+#aboutmeBody {
+  background-color: #0d2b4e;
+  height: 100%;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+
+li {
+  margin: 10px 10px 10px 5px;
+  display: block;
+  position: relative;
+  top: 100px;
+}
+
+a {
+  color: white;
+}
+
+#titleperfetto {
+  margin: 10px 10px 50px 30px;
+}
+
+h1 {
+  font-size: 70px;
+}
+h3 {
+  font-size: 20px;
+}
+
+#navigation_bar {
+  display: inline-block;
+  position: relative;
+  top: 0px;
+  right: 500px;
+  bottom: 0px;
+  left: 0px;
+}
+
+#imgPerfetto {
+  display: inline;
+  position: absolute;
+  top: 200px;
+  right: 50px;
+}
+
+/*border: 1px solid red;*/
