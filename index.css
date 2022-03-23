@@ -1,0 +1,36 @@
+#pagebody {
+  background-color: #0d2b4e;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+#navigation_bar {
+  display: block;
+  border: 1px solid red;
+}
+
+#video {
+  border: 1px solid red;
+  display: inline-block;
+}
+
+#projectsContainer {
+  border: 1px solid red;
+}
+
+footer {
+  border: 1px solid red;
+}
